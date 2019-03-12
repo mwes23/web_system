@@ -1,0 +1,54 @@
+.bg-red {
+	background-color: #E61D2B;
+}
+
+.ml-10 {
+  	margin-left: 10%;
+}
+
+nav.py-0 {
+	margin-bottom: 35px;
+}
+
+.nav-img {
+  	height: 38px;
+  	width: 38px;
+  	margin-right: 16px;
+  	margin-left: 30px;
+}
+
+.shadow {
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+input[type=text].form-control, button.nav-btn {
+	border: none; 
+	background-color: #EB4651;
+	color: white;
+}
+
+.fa-search, .fa-times {
+	color: white;
+}
+
+button.nav-btn:hover {
+	border: none; 
+	background-color: #EB4651;
+	color: white;
+}

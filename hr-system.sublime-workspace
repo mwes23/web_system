@@ -832,7 +832,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "hr-system.sublime-project",
+	"project": "hr_system/hr-system.sublime-project",
 	"replace":
 	{
 		"height": 54.0
